@@ -1,0 +1,6 @@
+{
+  "_comment": "Copy to ~/.claude/crossreview.json to change the defaults. All keys optional.",
+  "max_rounds": 4,
+  "model": "gemini-4-argon-high",
+  "watch": true
+}
